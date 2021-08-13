@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.2] - 2021-08-13
+
+### Changed
+
+- Add `elementary OS` to the `Debian` when conditional `apt` installations
+
 ## [2.1.1] - 2021-08-11
 
 ### Changed
@@ -106,7 +112,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial role! 🚀
 
-[Unreleased]: https://github.com/iancleary/ansible-role-zsh/compare/v2.1.1...HEAD
+[Unreleased]: https://github.com/iancleary/ansible-role-zsh/compare/v2.1.2...HEAD
+[2.1.2]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.1.2
 [2.1.1]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.1.1
 [2.1.0]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.1.0
 [2.0.3]: https://github.com/iancleary/ansible-role-zsh/releases/tag/v2.0.3

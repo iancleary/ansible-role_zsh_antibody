@@ -7,7 +7,7 @@
   loop:
     - git
     - zsh
-  when: ansible_os_family == 'Debian'
+  when: ansible_os_family == 'Debian' or ansible_os_family == "elementary OS"
 
 - name: install dnf dependencies
   become: "yes"
